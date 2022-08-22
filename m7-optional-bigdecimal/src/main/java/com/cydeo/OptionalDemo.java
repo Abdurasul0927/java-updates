@@ -25,6 +25,7 @@ public class OptionalDemo {
         System.out.println(bigNumber.get());
 
         //orElse
+        System.out.println(bigNumber.orElse(5));
 
 
 
